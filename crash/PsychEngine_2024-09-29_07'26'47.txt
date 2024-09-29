@@ -1,0 +1,15 @@
+flixel/FlxCamera.hx (line 640)
+flixel/FlxCamera.hx (line 807)
+flixel/FlxSprite.hx (line 856)
+flixel/FlxSprite.hx (line 807)
+flixel/group/FlxGroup.hx (line 180)
+flixel/FlxState.hx (line 111)
+flixel/FlxGame.hx (line 881)
+flixel/FlxGame.hx (line 566)
+openfl/events/EventDispatcher.hx (line 426)
+openfl/display/DisplayObject.hx (line 1398)
+
+Uncaught Error: Attempted to queue an invalid FlxDrawItem, did you destroy a cached sprite?
+Please report this error to the GitHub page: https://github.com/ShadowMario/FNF-PsychEngine
+
+> Crash Handler written by: sqirra-rng

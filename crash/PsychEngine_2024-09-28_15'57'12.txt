@@ -1,0 +1,16 @@
+options/Option.hx (line 144)
+options/Option.hx (line 44)
+options/VisualsUISubState.hx (line 38)
+options/OptionsState.hx (line 18)
+options/OptionsState.hx (line 86)
+flixel/FlxState.hx (line 239)
+flixel/FlxGame.hx (line 750)
+flixel/FlxGame.hx (line 680)
+flixel/FlxGame.hx (line 559)
+openfl/events/EventDispatcher.hx (line 426)
+openfl/display/DisplayObject.hx (line 1398)
+
+Uncaught Error: Null Object Reference
+Please report this error to the GitHub page: https://github.com/ShadowMario/FNF-PsychEngine
+
+> Crash Handler written by: sqirra-rng
