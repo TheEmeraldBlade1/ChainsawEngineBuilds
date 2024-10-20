@@ -1,3 +1,0 @@
-put an lua file with stage name here
-file formats supported:
-lua

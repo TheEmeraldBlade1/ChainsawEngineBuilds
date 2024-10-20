@@ -1,3 +1,0 @@
-put an lua file with character name here
-file formats supported:
-lua

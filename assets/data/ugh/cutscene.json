@@ -1,8 +1,0 @@
-{
-  "startCutscene": {
-    "name": "UghIntro",
-    "storyOnly": true,
-    "playOnce": true
-  },
-  "endCutscene": "null"
-}

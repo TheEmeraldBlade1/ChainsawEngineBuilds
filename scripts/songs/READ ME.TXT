@@ -1,3 +1,0 @@
-put an lua file with song name here
-file formats supported:
-lua
